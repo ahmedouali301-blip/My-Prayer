@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "218594299580",
+    "project_id": "myprayer-e365a",
+    "storage_bucket": "myprayer-e365a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218594299580:android:f5c56d1acd016985ec4ab9",
+        "android_client_info": {
+          "package_name": "com.example.priere"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlxR1tMtmF8Dxee_PIdKqm2gT02JT2it4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
